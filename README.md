@@ -16,5 +16,3 @@ $ python3 manage.py createsuperuser
 
 # Screenshots
 <img src="ss.png">
-=======
-<img src="ss.png">
